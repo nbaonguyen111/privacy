@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - AutoPost</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            line-height: 1.6;
+            margin: 40px auto;
+            background-color: #f7f9fa;
+            color: #333;
+            max-width: 800px;
+            padding: 0 20px;
+        }
+        .container {
+            background: #fff;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+        }
+        h1 {
+            color: #1a1a1a;
+            border-bottom: 2px solid #edf2f7;
+            padding-bottom: 15px;
+            font-size: 28px;
+        }
+        h2 {
+            margin-top: 25px;
+            color: #2d3748;
+            font-size: 20px;
+        }
+        p, ul {
+            margin: 12px 0;
+            color: #4a5568;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        .contact {
+            margin-top: 30px;
+            padding: 20px;
+            background: #f8fafc;
+            border-left: 4px solid #4299e1;
+            border-radius: 4px;
+        }
+        .contact p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy for AutoPost</h1>
+        <p><em>Last updated: June 2026</em></p>
+
+        <p><strong>petrolimex</strong> ("we", "our", or "the app") is a personal automation utility tool designed solely to help the application owner automatically schedule and publish content to Facebook Pages they manage.</p>
+
+        <h2>1. Information Collection and Use</h2>
+        <p>We care deeply about your privacy. AutoPost operates under a strict <strong>No Data Collection</strong> policy:</p>
+        <ul>
+            <li><strong>No Personal Data:</strong> We do not collect, harvest, or store any personal information, login credentials, or user profiles.</li>
+            <li><strong>No Server-Side Storage:</strong> The application does not utilize external servers or databases to store your content, Facebook Access Tokens, or account data. All processes occur locally or directly via the official Facebook Graph API.</li>
+        </ul>
+
+        <h2>2. Facebook API Usage</h2>
+        <p>AutoPost uses Facebook APIs solely to execute publishing functions authorized by you. The app only accesses the specific permissions required to post content (such as text, links, or media) onto the Facebook Pages you manage. This data is handled transitionally and is never cached or tracked by us.</p>
+
+        <h2>3. Data Sharing and Third Parties</h2>
+        <p>Since we do not collect or store any user data, we do not—and cannot—sell, trade, or share any information with third parties.</p>
+
+        <h2>4. User Data Deletion Instructions (Meta Requirement)</h2>
+        <p>Because AutoPost does not save or store any of your data on a server, there is no database from which to delete your information. However, if you wish to revoke the application's access to your Facebook account, you can easily do so by following these official Facebook steps:</p>
+        <ul>
+            <li>Go to your Facebook Account's <strong>Settings & Privacy</strong>.</li>
+            <li>Click on <strong>Settings</strong>, then navigate to <strong>Apps and Websites</strong>.</li>
+            <li>Find <strong>AutoPost</strong> and click <strong>Remove</strong>.</li>
+        </ul>
+
+        <div class="contact">
+            <h2>Contact Us</h2>
+            <p>If you have any questions about this Privacy Policy, please contact the developer at:</p>
+            <p><strong>Email:</strong> nooobao86@gmail.com</p>
+        </div>
+    </div>
+</body>
+</html>
